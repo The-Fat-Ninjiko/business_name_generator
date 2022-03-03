@@ -1,0 +1,4 @@
+#Tue Feb 22 01:33:42 EET 2022
+base.0=/Users/omarheshamali/Documents/Projects/Flutter_Apps/Busniss/business_name_generator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
