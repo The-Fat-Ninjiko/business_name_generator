@@ -4,6 +4,8 @@ business name generator
 
 ## Getting Started
 
+This is an mobile application bulid using Flutter, its main goal is to generate new names for small business. 
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
